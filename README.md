@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Morshedul Islam ### Software Testing & QA Engineer
+## Hi there 👋, I'm Morshedul Islam 
+### Software Testing & QA Engineer
 
 ![Profile views](https://gpvc.arturio.dev/Morshedul503)  
 
@@ -10,12 +11,10 @@ I have completed my B.Sc. in CSE from the Department of Computer Science and Eng
 - 📫 How to reach me: mshuvo530@gmail.com 
 
 
-### 🤝 Connect with me:
+###🤝 Connect with me:
   
 [![Facebook](icons/facebook.png)](https://www.facebook.com/morsheduli/)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/morshedulshuvo/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/morshedulshuvo/)
 [![Twitter](icons/twitter.png)](https://twitter.com/MorshedulShuvo)
 [![GitHub](icons/github.png)](https://github.com/Morshedul503)
-
-
