@@ -3,9 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Morshedul503)  
 
-<p align="left to right">
-I have completed my B.Sc. in CSE from the Department of Computer Science and Engineering of Daffodil International University, Dhaka, Bangladesh. I have good experience dealing with manual software testing and five companies' IT and various departments that I have good knowledge of overall. I am determined to develop myself as a skilled SQA expert. I have experience in startup and mature ventures in the durable part of the online market and Software company with 2.5+ years of experience in different leadership roles in Operations, Content, IT & many more. I have skills in BPO Analysis, Product Management, Logistics, and Vendor management.
-</p>
+<div dir="rtl">I have completed my B.Sc. in CSE from the Department of Computer Science and Engineering of Daffodil International University, Dhaka, Bangladesh. I have good experience dealing with manual software testing and five companies' IT and various departments that I have good knowledge of overall. I am determined to develop myself as a skilled SQA expert. I have experience in startup and mature ventures in the durable part of the online market and Software company with 2.5+ years of experience in different leadership roles in Operations, Content, IT & many more. I have skills in BPO Analysis, Product Management, Logistics, and Vendor management.</div>
 
 - 🌱 I’m currently learning New Technologies and Test Automation 
 - 👯 I’m looking to collaborate on Open Project 
