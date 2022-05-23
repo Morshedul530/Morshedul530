@@ -28,5 +28,6 @@ I have completed my B.Sc. in CSE from the Department of Computer Science and Eng
 
 ![Profile views](https://gpvc.arturio.dev/Morshedul503)  
 
-
 </div>
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
