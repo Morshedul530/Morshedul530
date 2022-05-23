@@ -11,7 +11,7 @@ I have completed my B.Sc. in CSE from the Department of Computer Science and Eng
 - 📫 How to reach me: mshuvo530@gmail.com 
 
 
-###🤝 Connect with me:
+### 🤝 Connect with me:
   
 [![Facebook](icons/facebook.png)](https://www.facebook.com/morsheduli/)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/morshedulshuvo/)
