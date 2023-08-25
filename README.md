@@ -17,4 +17,4 @@ I have completed my B.Sc. in CSE from the Department of Computer Science and Eng
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/morshedulshuvo/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/morshedulshuvo/)
 [![Twitter](icons/twitter.png)](https://twitter.com/MorshedulShuvo)
-[![GitHub](icons/github.png)](https://github.com/Morshedul503)
+[![GitHub](icons/github.png)]([https://github.com/Morshedul530)
