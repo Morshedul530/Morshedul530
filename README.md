@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Morshedul Islam 
 ### Software Testing & QA Engineer
 
-![Profile views](https://gpvc.arturio.dev/Morshedul530)  
+![Profile views](https://gpvc.arturio.dev/Morshedul530)
  
 
 I have completed my B.Sc. in CSE from the Department of Computer Science and Engineering of Daffodil International University, Dhaka, Bangladesh. I am passionate about learning new skills and i have completed a number of training courses. I have good experience dealing with manual and automation testing and working with these tools like  Jira, Postman, Qase, Jmeter, Newman, Jenkins, and Allure. Also, I have excellent working knowledge with 3+ years of experience in Software, E-commerce, Microfinance and Banking solution industries SQA & IT fields. I am determined to develop myself as a skilled SQA expert. 
