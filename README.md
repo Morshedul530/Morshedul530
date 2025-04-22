@@ -8,14 +8,14 @@ I have completed my B.Sc. in Computer Science and Engineering from Daffodil Inte
 
 Some key highlights of my skills and qualifications include:
 
-• Team leadership experience.
-• Knowledgeable in Git and GitHub.
-• Thorough understanding of SDLC, STLC, and the bug life cycle.
-• Hands-on experience with tools like JIRA, JMeter, and Postman.
-• Experienced in all phases of Agile and Waterfall development models.
-• Proficient in Selenium WebDriver with Python for automation testing.
-• Familiar with frameworks using PyTest (Page Object Model, Data-Driven, Page Factory, etc.).
-• Expertise in Blackbox Testing (Unit, System Integration, Smoke, Sanity, Regression, UAT (Alpha, Beta) and Ad-hoc testing.
+- Team leadership experience
+- Knowledgeable in Git and GitHub
+- Thorough understanding of SDLC, STLC, and the bug life cycle
+- Hands-on experience with tools like JIRA, JMeter, and Postman
+- Experienced in all phases of Agile and Waterfall development models
+- Proficient in Selenium WebDriver with Python for automation testing
+- Familiar with frameworks using PyTest (Page Object Model, Data-Driven, Page Factory, etc.)
+- Expertise in Blackbox Testing (Unit, System Integration, Smoke, Sanity, Regression, UAT (Alpha, Beta) and Ad-hoc testing
 
 
 Currently, I am working at Akijbashir Group as a Software Engineer (QA), where I am responsible for ensuring the quality and performance of software systems through both manual and automated testing. In addition to my QA responsibilities, I have also conducted onboarding training sessions for new employees. These sessions provide a comprehensive introduction to the ERP system, tailored to each department’s specific workflows and the employees’ daily tasks, ensuring efficient adaptation and productive usage of the system.
