@@ -6,6 +6,7 @@
 
 I have completed my B.Sc. in Computer Science and Engineering from Daffodil International University, Dhaka, Bangladesh. I am passionate about learning new skills and have successfully completed several professional training courses, including Software Testing & Quality Assurance, SQA and Cyber Security, and Microsoft Excel Basic to Advanced etc. I have strong experience in both manual and automation testing, and I am proficient in using tools such as Selenium WebDriver, Jira, Postman, JMeter, Newman, Jenkins. With over 6.2 years of experience in testing web and mobile applications—particularly in ERP systems, travel agencies, software development, e-commerce platforms, microfinance, and banking solutions—I am confident in my ability to make a meaningful contribution to any organization. I am determined to develop myself as a skilled SQA expert.
 
+
 Some key highlights of my skills and qualifications include:
 
 - Team leadership experience
